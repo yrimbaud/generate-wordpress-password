@@ -3,8 +3,8 @@
 This is a small PHP script to generate a hashed password for WordPress. It can be used when you need to set a password directly in the database or in any other scenario where you need a WordPress-compatible hashed password.
 
 ## Main Features
-- Lightweight: The script is only a few lines long and requires minimal resources to run.
-- Easy to use: Just replace "Your strong password!" with the password you want to hash, and run the script.
+- Lightweight: the script is only a few lines long and requires minimal resources to run.
+- Easy to use: just replace "Your strong password!" with the password you want to hash, and run the script.
 
 ## How to Use
 1. Clone this repository or download the `generatePassword.php` file.
